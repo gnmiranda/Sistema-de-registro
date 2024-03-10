@@ -2,3 +2,4 @@
 
 Estado del proyecto en construccion.
 - Para ejecutar las versiones del sistema.
+- np install react
